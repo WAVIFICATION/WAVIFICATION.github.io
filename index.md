@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to My page
 
-You can use the [editor on GitHub](https://github.com/WAVIFICATION/WAVIFICATION.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](https://avatars1.githubusercontent.com/u/26165986?s=400&u=cccda2b82633527c42484b58d46d20666723169b&v=4)
+ 
+### About me
+Ambitious Microsoft certified Data scientist associate with exemplary Web development and Cloud solution architect skills
+with empirical knowledge in respective fields.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Skills
+- [Microsoft Certified: Azure Data Scientist Associate](https://www.youracclaim.com/badges/d6fc534b-c919-4f5d-ae67-b2fb921e295a).
+- [Microsoft Certified: Azure Fundamentals](https://www.youracclaim.com/badges/8b542e8d-cd6a-49c6-99a0-b6a5913082f3).
+- Microsoft Cloud skill Champion.
+- SQL server 2016, .Net Application development.
+- Exceptional programming and logical comprehension skills on
+Python, C, C++, C#, Java, R.
+- Expertise in Web development in Flask Python, PHP, and front-end
+development on ReactJS, JavaScript.
+- CI/CD implementation (Git), pipelines using
+Jenkins, GitHub Actions.
+- Architecting and implementing Cloud infrastructures on AWS and
+Azure.
+- Setup database environment in local and cloud environment using
+MySQL, phpMyAdmin, AWS RDS.
+- Exceptional team skills for agile environment.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WAVIFICATION/WAVIFICATION.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
